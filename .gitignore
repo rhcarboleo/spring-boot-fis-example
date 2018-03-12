@@ -1,0 +1,11 @@
+# IntelliJ
+.idea/
+*.iml
+*.ipr
+*.iws
+.DS_Store
+*.swp
+old_*
+
+target/
+/bin/
